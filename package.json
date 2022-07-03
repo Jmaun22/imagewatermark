@@ -1,5 +1,13 @@
 {
   "dependencies": {
+    "capture-website": "^2.4.0",
     "sharp": "^0.30.7"
-  }
+  },
+
+
+
+
+  "type": "module"
+
+
 }
